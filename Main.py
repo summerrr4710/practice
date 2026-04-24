@@ -16,5 +16,8 @@ def main():
 
     print("Total:", len(filtered))
 
+def hello():
+    print("hi")
+
 if __name__ == "__main__":
     main()
