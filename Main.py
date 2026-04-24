@@ -19,5 +19,7 @@ def main():
 def hello():
     print("hi")
 
+    print(" summer")
+
 if __name__ == "__main__":
     main()
