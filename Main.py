@@ -7,19 +7,17 @@ def filter_users(users, city):
     pass
 
 def main():
-    users = get_users()
-    filtered = filter_users(users, "South Christy")
 
-
-    for user in filtered:
-        print(user)
-
-    print("Total:", len(filtered))
+    hello()
 
 def hello():
-    print("hi")
+    print("hiiiiiiiiii")
 
     print(" summer")
+
+def abcabc():
+    print("abcdefghijklmnop")
+
 
 if __name__ == "__main__":
     main()
